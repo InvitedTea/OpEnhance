@@ -5,77 +5,37 @@
 1) [Issue 12](https://github.com/ethereum-optimism/ecosystem-contributions/issues/12)
 2) [Issue 11](https://github.com/ethereum-optimism/ecosystem-contributions/issues/11)
 
+### Optimism Dashboard Project Proposal
 
-### 1. **Objective:**
-Develop a dashboard to enhance collaboration and navigate open GitHub issues for the Optimism ecosystem.
+**Objective:** Develop an intuitive dashboard to enhance collaboration and navigate open GitHub issues for the Optimism ecosystem.
 
-### 2. **Key Features:**
-#### a. Display Active Project Ideas:
-  - List active project ideas with description, status, tags.
-#### b. Advanced Search Functionality:
-  - Search by content, category, tags; include filters.
-#### c. Project Sorting and Categorization:
-  - Predefined categories and tags; community proposals.
-#### d. Personalized Discovery Flow:
-  - Step-by-step guide to find projects/tasks.
-#### e. Information about RetroPGF Rounds and Distributions:
-  - Details about RetroPGF; highlight opportunities.
+**Key Features:**
 
-### 3. **User Engagement and Community Building:**
-  - Community forum or comments.
-  - Highlight endorsed issues.
-  - Community guidelines and contribution guides.
+- Display active project ideas with descriptions, status tags
+- Advanced search and filters
+- Project sorting/categorization  
+- Personalized discovery flow
+- Details on RetroPGF rounds
 
-### 4. **Design and Usability:**
-  - Intuitive design.
-  - Responsive for mobile and desktop.
+**User Engagement:**
 
-### 5. **Analytics and Tracking:**
-  - Tools for tracking progress.
-  - User analytics.
+- Community forum, contribution guides
+- Highlight endorsed issues
 
-### 6. **Integration and Compatibility:**
-  - Integration with GitHub.
-  - Compatibility with Optimism ecosystem tools.
+**Design/UX:** Intuitive, mobile-friendly
 
-### **Implementation Details:**
-#### 1. Setup:
-  - Flask/Django.
-  - PostgreSQL.
-  - Git, GitHub.
-  - Hosting (e.g., AWS).
+**Analytics:** Progress tracking, user analytics
 
-#### 2. Authentication:
-  - OAuth2 for GitHub login.
-  - Roles and permissions.
+**Implementation Details:**
 
-#### 3. GitHub REST API Integration:
-  - Fetch and update projects and issues.
+- Python/Flask, PostgreSQL, React
+- GitHub API integration  
+- OAuth2 login, permissions
+- Core features: search, discovery, RetroPGF
+- Responsive frontend
+- Testing, CI/CD
+- Security measures
+- Monitoring, analytics
+- Documentation, community engagement
 
-#### 4. Core Features Implementation:
-  - Search, sort, personalized discovery, RetroPGF display.
-
-#### 5. Frontend Development:
-  - React or Vue.js.
-  - Responsive design.
-
-#### 6. Testing:
-  - Unit and integration tests.
-  - Continuous Integration (CI).
-
-#### 7. Security Measures:
-  - Input validation, HTTPS.
-
-#### 8. Monitoring and Analytics:
-  - Logging, monitoring, analytics tools.
-
-#### 9. Documentation:
-  - Clear documentation for users and developers.
-
-#### 10. Community Engagement:
-  - Feedback mechanism.
-  - Regular updates, blog posts.
-
-### **Conclusion:**
-Thoughtful combination of backend/frontend, security, community engagement. Follow best practices, engage with the community, consider UI/UX design or security specialists.
-
+**Conclusion:** Combining thoughtful backend, security, design, and community engagement following best practices can create an intuitive Optimism dashboard to improve collaboration. Engage community and consider specialists like UI/UX or security experts.
