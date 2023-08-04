@@ -1,6 +1,11 @@
 # OpEnhance
 ## Optimism Ecosystem Contributions Dashboard
 
+### **Related Requirement:**
+1) [Issue 12](https://github.com/ethereum-optimism/ecosystem-contributions/issues/12)
+2) [Issue 11](https://github.com/ethereum-optimism/ecosystem-contributions/issues/11)
+
+
 ### 1. **Objective:**
 Develop a dashboard to enhance collaboration and navigate open GitHub issues for the Optimism ecosystem.
 
@@ -74,6 +79,3 @@ Develop a dashboard to enhance collaboration and navigate open GitHub issues for
 ### **Conclusion:**
 Thoughtful combination of backend/frontend, security, community engagement. Follow best practices, engage with the community, consider UI/UX design or security specialists.
 
-### **Related Issues:**
-1) [Issue 12](https://github.com/ethereum-optimism/ecosystem-contributions/issues/12)
-2) [Issue 11](https://github.com/ethereum-optimism/ecosystem-contributions/issues/11)
